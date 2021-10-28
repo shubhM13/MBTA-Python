@@ -1,0 +1,3213 @@
+{
+	"data": [{
+		"attributes": {
+			"arrival_time": "2021-05-11T17:18:31-04:00",
+			"departure_time": null,
+			"direction_id": 1,
+			"schedule_relationship": null,
+			"status": null,
+			"stop_sequence": 600
+		},
+		"id": "prediction-47410346-20:45-BrooklineHillsClosedReservoirRiverside-71199-600",
+		"relationships": {
+			"route": {
+				"data": {
+					"id": "Green-B",
+					"type": "route"
+				}
+			},
+			"stop": {
+				"data": {
+					"id": "71199",
+					"type": "stop"
+				}
+			},
+			"trip": {
+				"data": {
+					"id": "47410346-20:45-BrooklineHillsClosedReservoirRiverside",
+					"type": "trip"
+				}
+			},
+			"vehicle": {
+				"data": {
+					"id": "G-10012",
+					"type": "vehicle"
+				}
+			}
+		},
+		"type": "prediction"
+	}, {
+		"attributes": {
+			"arrival_time": "2021-05-11T17:26:49-04:00",
+			"departure_time": null,
+			"direction_id": 1,
+			"schedule_relationship": null,
+			"status": null,
+			"stop_sequence": 600
+		},
+		"id": "prediction-47410348-20:45-BrooklineHillsClosedReservoirRiverside-71199-600",
+		"relationships": {
+			"route": {
+				"data": {
+					"id": "Green-B",
+					"type": "route"
+				}
+			},
+			"stop": {
+				"data": {
+					"id": "71199",
+					"type": "stop"
+				}
+			},
+			"trip": {
+				"data": {
+					"id": "47410348-20:45-BrooklineHillsClosedReservoirRiverside",
+					"type": "trip"
+				}
+			},
+			"vehicle": {
+				"data": {
+					"id": "G-10017",
+					"type": "vehicle"
+				}
+			}
+		},
+		"type": "prediction"
+	}, {
+		"attributes": {
+			"arrival_time": "2021-05-11T17:30:51-04:00",
+			"departure_time": null,
+			"direction_id": 1,
+			"schedule_relationship": null,
+			"status": null,
+			"stop_sequence": 600
+		},
+		"id": "prediction-47410349-20:45-BrooklineHillsClosedReservoirRiverside-71199-600",
+		"relationships": {
+			"route": {
+				"data": {
+					"id": "Green-B",
+					"type": "route"
+				}
+			},
+			"stop": {
+				"data": {
+					"id": "71199",
+					"type": "stop"
+				}
+			},
+			"trip": {
+				"data": {
+					"id": "47410349-20:45-BrooklineHillsClosedReservoirRiverside",
+					"type": "trip"
+				}
+			},
+			"vehicle": {
+				"data": {
+					"id": "G-10003",
+					"type": "vehicle"
+				}
+			}
+		},
+		"type": "prediction"
+	}, {
+		"attributes": {
+			"arrival_time": "2021-05-11T17:37:41-04:00",
+			"departure_time": null,
+			"direction_id": 1,
+			"schedule_relationship": null,
+			"status": null,
+			"stop_sequence": 600
+		},
+		"id": "prediction-47410350-20:45-BrooklineHillsClosedReservoirRiverside-71199-600",
+		"relationships": {
+			"route": {
+				"data": {
+					"id": "Green-B",
+					"type": "route"
+				}
+			},
+			"stop": {
+				"data": {
+					"id": "71199",
+					"type": "stop"
+				}
+			},
+			"trip": {
+				"data": {
+					"id": "47410350-20:45-BrooklineHillsClosedReservoirRiverside",
+					"type": "trip"
+				}
+			},
+			"vehicle": {
+				"data": {
+					"id": "G-10065",
+					"type": "vehicle"
+				}
+			}
+		},
+		"type": "prediction"
+	}, {
+		"attributes": {
+			"arrival_time": "2021-05-11T17:47:41-04:00",
+			"departure_time": null,
+			"direction_id": 1,
+			"schedule_relationship": null,
+			"status": null,
+			"stop_sequence": 600
+		},
+		"id": "prediction-47410351-20:45-BrooklineHillsClosedReservoirRiverside-71199-600",
+		"relationships": {
+			"route": {
+				"data": {
+					"id": "Green-B",
+					"type": "route"
+				}
+			},
+			"stop": {
+				"data": {
+					"id": "71199",
+					"type": "stop"
+				}
+			},
+			"trip": {
+				"data": {
+					"id": "47410351-20:45-BrooklineHillsClosedReservoirRiverside",
+					"type": "trip"
+				}
+			},
+			"vehicle": {
+				"data": {
+					"id": "G-10025",
+					"type": "vehicle"
+				}
+			}
+		},
+		"type": "prediction"
+	}, {
+		"attributes": {
+			"arrival_time": "2021-05-11T17:50:04-04:00",
+			"departure_time": null,
+			"direction_id": 1,
+			"schedule_relationship": null,
+			"status": null,
+			"stop_sequence": 600
+		},
+		"id": "prediction-47410352-20:45-BrooklineHillsClosedReservoirRiverside-71199-600",
+		"relationships": {
+			"route": {
+				"data": {
+					"id": "Green-B",
+					"type": "route"
+				}
+			},
+			"stop": {
+				"data": {
+					"id": "71199",
+					"type": "stop"
+				}
+			},
+			"trip": {
+				"data": {
+					"id": "47410352-20:45-BrooklineHillsClosedReservoirRiverside",
+					"type": "trip"
+				}
+			},
+			"vehicle": {
+				"data": {
+					"id": "G-10057",
+					"type": "vehicle"
+				}
+			}
+		},
+		"type": "prediction"
+	}, {
+		"attributes": {
+			"arrival_time": "2021-05-11T17:23:45-04:00",
+			"departure_time": null,
+			"direction_id": 1,
+			"schedule_relationship": null,
+			"status": null,
+			"stop_sequence": 600
+		},
+		"id": "prediction-47410353-20:45-BrooklineHillsClosedReservoirRiverside-71199-600",
+		"relationships": {
+			"route": {
+				"data": {
+					"id": "Green-B",
+					"type": "route"
+				}
+			},
+			"stop": {
+				"data": {
+					"id": "71199",
+					"type": "stop"
+				}
+			},
+			"trip": {
+				"data": {
+					"id": "47410353-20:45-BrooklineHillsClosedReservoirRiverside",
+					"type": "trip"
+				}
+			},
+			"vehicle": {
+				"data": {
+					"id": "G-10096",
+					"type": "vehicle"
+				}
+			}
+		},
+		"type": "prediction"
+	}, {
+		"attributes": {
+			"arrival_time": "2021-05-11T17:24:22-04:00",
+			"departure_time": null,
+			"direction_id": 1,
+			"schedule_relationship": "ADDED",
+			"status": null,
+			"stop_sequence": 600
+		},
+		"id": "prediction-ADDED-1580750899-71199-600",
+		"relationships": {
+			"route": {
+				"data": {
+					"id": "Green-D",
+					"type": "route"
+				}
+			},
+			"stop": {
+				"data": {
+					"id": "71199",
+					"type": "stop"
+				}
+			},
+			"trip": {
+				"data": {
+					"id": "ADDED-1580750899",
+					"type": "trip"
+				}
+			},
+			"vehicle": {
+				"data": {
+					"id": "G-10058",
+					"type": "vehicle"
+				}
+			}
+		},
+		"type": "prediction"
+	}, {
+		"attributes": {
+			"arrival_time": "2021-05-11T17:05:54-04:00",
+			"departure_time": "2021-05-11T17:06:51-04:00",
+			"direction_id": 0,
+			"schedule_relationship": null,
+			"status": null,
+			"stop_sequence": 70
+		},
+		"id": "prediction-47410849-20:45-BrooklineHillsClosedReservoirRiverside-70198-70",
+		"relationships": {
+			"route": {
+				"data": {
+					"id": "Green-D",
+					"type": "route"
+				}
+			},
+			"stop": {
+				"data": {
+					"id": "70198",
+					"type": "stop"
+				}
+			},
+			"trip": {
+				"data": {
+					"id": "47410849-20:45-BrooklineHillsClosedReservoirRiverside",
+					"type": "trip"
+				}
+			},
+			"vehicle": {
+				"data": {
+					"id": "G-10129",
+					"type": "vehicle"
+				}
+			}
+		},
+		"type": "prediction"
+	}, {
+		"attributes": {
+			"arrival_time": "2021-05-11T17:12:59-04:00",
+			"departure_time": "2021-05-11T17:14:09-04:00",
+			"direction_id": 1,
+			"schedule_relationship": null,
+			"status": null,
+			"stop_sequence": 600
+		},
+		"id": "prediction-47410607-20:45-BrooklineHillsClosedReservoirRiverside-70200-600",
+		"relationships": {
+			"route": {
+				"data": {
+					"id": "Green-C",
+					"type": "route"
+				}
+			},
+			"stop": {
+				"data": {
+					"id": "70200",
+					"type": "stop"
+				}
+			},
+			"trip": {
+				"data": {
+					"id": "47410607-20:45-BrooklineHillsClosedReservoirRiverside",
+					"type": "trip"
+				}
+			},
+			"vehicle": {
+				"data": {
+					"id": "G-10099",
+					"type": "vehicle"
+				}
+			}
+		},
+		"type": "prediction"
+	}, {
+		"attributes": {
+			"arrival_time": "2021-05-11T17:14:15-04:00",
+			"departure_time": "2021-05-11T17:15:17-04:00",
+			"direction_id": 1,
+			"schedule_relationship": null,
+			"status": null,
+			"stop_sequence": 600
+		},
+		"id": "prediction-47410982-20:45-BrooklineHillsClosedReservoirRiverside-70200-600",
+		"relationships": {
+			"route": {
+				"data": {
+					"id": "Green-E",
+					"type": "route"
+				}
+			},
+			"stop": {
+				"data": {
+					"id": "70200",
+					"type": "stop"
+				}
+			},
+			"trip": {
+				"data": {
+					"id": "47410982-20:45-BrooklineHillsClosedReservoirRiverside",
+					"type": "trip"
+				}
+			},
+			"vehicle": {
+				"data": {
+					"id": "G-10062",
+					"type": "vehicle"
+				}
+			}
+		},
+		"type": "prediction"
+	}, {
+		"attributes": {
+			"arrival_time": "2021-05-11T17:14:36-04:00",
+			"departure_time": "2021-05-11T17:15:52-04:00",
+			"direction_id": 0,
+			"schedule_relationship": "ADDED",
+			"status": null,
+			"stop_sequence": 70
+		},
+		"id": "prediction-ADDED-1580750879-70198-70",
+		"relationships": {
+			"route": {
+				"data": {
+					"id": "Green-D",
+					"type": "route"
+				}
+			},
+			"stop": {
+				"data": {
+					"id": "70198",
+					"type": "stop"
+				}
+			},
+			"trip": {
+				"data": {
+					"id": "ADDED-1580750879",
+					"type": "trip"
+				}
+			},
+			"vehicle": {
+				"data": {
+					"id": "G-10115",
+					"type": "vehicle"
+				}
+			}
+		},
+		"type": "prediction"
+	}, {
+		"attributes": {
+			"arrival_time": "2021-05-11T17:15:08-04:00",
+			"departure_time": "2021-05-11T17:16:14-04:00",
+			"direction_id": 1,
+			"schedule_relationship": "ADDED",
+			"status": null,
+			"stop_sequence": 150
+		},
+		"id": "prediction-ADDED-1580750881-70076-150",
+		"relationships": {
+			"route": {
+				"data": {
+					"id": "Red",
+					"type": "route"
+				}
+			},
+			"stop": {
+				"data": {
+					"id": "70076",
+					"type": "stop"
+				}
+			},
+			"trip": {
+				"data": {
+					"id": "ADDED-1580750881",
+					"type": "trip"
+				}
+			},
+			"vehicle": {
+				"data": {
+					"id": "R-546A6C2D",
+					"type": "vehicle"
+				}
+			}
+		},
+		"type": "prediction"
+	}, {
+		"attributes": {
+			"arrival_time": "2021-05-11T17:15:25-04:00",
+			"departure_time": "2021-05-11T17:16:35-04:00",
+			"direction_id": 1,
+			"schedule_relationship": null,
+			"status": null,
+			"stop_sequence": 600
+		},
+		"id": "prediction-47410870-20:45-BrooklineHillsClosedReservoirRiverside-70200-600",
+		"relationships": {
+			"route": {
+				"data": {
+					"id": "Green-D",
+					"type": "route"
+				}
+			},
+			"stop": {
+				"data": {
+					"id": "70200",
+					"type": "stop"
+				}
+			},
+			"trip": {
+				"data": {
+					"id": "47410870-20:45-BrooklineHillsClosedReservoirRiverside",
+					"type": "trip"
+				}
+			},
+			"vehicle": {
+				"data": {
+					"id": "G-10089",
+					"type": "vehicle"
+				}
+			}
+		},
+		"type": "prediction"
+	}, {
+		"attributes": {
+			"arrival_time": "2021-05-11T17:15:36-04:00",
+			"departure_time": "2021-05-11T17:16:59-04:00",
+			"direction_id": 0,
+			"schedule_relationship": null,
+			"status": null,
+			"stop_sequence": 60
+		},
+		"id": "prediction-47410659-20:45-BrooklineHillsClosedReservoirRiverside-70197-60",
+		"relationships": {
+			"route": {
+				"data": {
+					"id": "Green-C",
+					"type": "route"
+				}
+			},
+			"stop": {
+				"data": {
+					"id": "70197",
+					"type": "stop"
+				}
+			},
+			"trip": {
+				"data": {
+					"id": "47410659-20:45-BrooklineHillsClosedReservoirRiverside",
+					"type": "trip"
+				}
+			},
+			"vehicle": {
+				"data": {
+					"id": "G-10146",
+					"type": "vehicle"
+				}
+			}
+		},
+		"type": "prediction"
+	}, {
+		"attributes": {
+			"arrival_time": "2021-05-11T17:18:17-04:00",
+			"departure_time": "2021-05-11T17:19:23-04:00",
+			"direction_id": 1,
+			"schedule_relationship": null,
+			"status": null,
+			"stop_sequence": 150
+		},
+		"id": "prediction-47253978-70076-150",
+		"relationships": {
+			"route": {
+				"data": {
+					"id": "Red",
+					"type": "route"
+				}
+			},
+			"stop": {
+				"data": {
+					"id": "70076",
+					"type": "stop"
+				}
+			},
+			"trip": {
+				"data": {
+					"id": "47253978",
+					"type": "trip"
+				}
+			},
+			"vehicle": {
+				"data": {
+					"id": "R-546A6066",
+					"type": "vehicle"
+				}
+			}
+		},
+		"type": "prediction"
+	}, {
+		"attributes": {
+			"arrival_time": "2021-05-11T17:19:05-04:00",
+			"departure_time": "2021-05-11T17:20:19-04:00",
+			"direction_id": 0,
+			"schedule_relationship": null,
+			"status": null,
+			"stop_sequence": 80
+		},
+		"id": "prediction-47411125-20:45-BrooklineHillsClosedReservoirRiverside-70199-80",
+		"relationships": {
+			"route": {
+				"data": {
+					"id": "Green-E",
+					"type": "route"
+				}
+			},
+			"stop": {
+				"data": {
+					"id": "70199",
+					"type": "stop"
+				}
+			},
+			"trip": {
+				"data": {
+					"id": "47411125-20:45-BrooklineHillsClosedReservoirRiverside",
+					"type": "trip"
+				}
+			},
+			"vehicle": {
+				"data": {
+					"id": "G-10084",
+					"type": "vehicle"
+				}
+			}
+		},
+		"type": "prediction"
+	}, {
+		"attributes": {
+			"arrival_time": "2021-05-11T17:20:04-04:00",
+			"departure_time": "2021-05-11T17:21:14-04:00",
+			"direction_id": 1,
+			"schedule_relationship": "ADDED",
+			"status": null,
+			"stop_sequence": 600
+		},
+		"id": "prediction-ADDED-1580750874-70200-600",
+		"relationships": {
+			"route": {
+				"data": {
+					"id": "Green-E",
+					"type": "route"
+				}
+			},
+			"stop": {
+				"data": {
+					"id": "70200",
+					"type": "stop"
+				}
+			},
+			"trip": {
+				"data": {
+					"id": "ADDED-1580750874",
+					"type": "trip"
+				}
+			},
+			"vehicle": {
+				"data": {
+					"id": "G-10032",
+					"type": "vehicle"
+				}
+			}
+		},
+		"type": "prediction"
+	}, {
+		"attributes": {
+			"arrival_time": "2021-05-11T17:20:23-04:00",
+			"departure_time": "2021-05-11T17:21:46-04:00",
+			"direction_id": 0,
+			"schedule_relationship": "ADDED",
+			"status": null,
+			"stop_sequence": 60
+		},
+		"id": "prediction-ADDED-1580750898-70197-60",
+		"relationships": {
+			"route": {
+				"data": {
+					"id": "Green-C",
+					"type": "route"
+				}
+			},
+			"stop": {
+				"data": {
+					"id": "70197",
+					"type": "stop"
+				}
+			},
+			"trip": {
+				"data": {
+					"id": "ADDED-1580750898",
+					"type": "trip"
+				}
+			},
+			"vehicle": {
+				"data": {
+					"id": "G-10068",
+					"type": "vehicle"
+				}
+			}
+		},
+		"type": "prediction"
+	}, {
+		"attributes": {
+			"arrival_time": "2021-05-11T17:21:39-04:00",
+			"departure_time": "2021-05-11T17:22:58-04:00",
+			"direction_id": 0,
+			"schedule_relationship": null,
+			"status": null,
+			"stop_sequence": 70
+		},
+		"id": "prediction-47254061-70075-70",
+		"relationships": {
+			"route": {
+				"data": {
+					"id": "Red",
+					"type": "route"
+				}
+			},
+			"stop": {
+				"data": {
+					"id": "70075",
+					"type": "stop"
+				}
+			},
+			"trip": {
+				"data": {
+					"id": "47254061",
+					"type": "trip"
+				}
+			},
+			"vehicle": {
+				"data": {
+					"id": "R-546A6AE6",
+					"type": "vehicle"
+				}
+			}
+		},
+		"type": "prediction"
+	}, {
+		"attributes": {
+			"arrival_time": "2021-05-11T17:22:13-04:00",
+			"departure_time": "2021-05-11T17:23:27-04:00",
+			"direction_id": 0,
+			"schedule_relationship": null,
+			"status": null,
+			"stop_sequence": 80
+		},
+		"id": "prediction-47411124-20:45-BrooklineHillsClosedReservoirRiverside-70199-80",
+		"relationships": {
+			"route": {
+				"data": {
+					"id": "Green-E",
+					"type": "route"
+				}
+			},
+			"stop": {
+				"data": {
+					"id": "70199",
+					"type": "stop"
+				}
+			},
+			"trip": {
+				"data": {
+					"id": "47411124-20:45-BrooklineHillsClosedReservoirRiverside",
+					"type": "trip"
+				}
+			},
+			"vehicle": {
+				"data": {
+					"id": "G-10040",
+					"type": "vehicle"
+				}
+			}
+		},
+		"type": "prediction"
+	}, {
+		"attributes": {
+			"arrival_time": "2021-05-11T17:22:30-04:00",
+			"departure_time": "2021-05-11T17:23:40-04:00",
+			"direction_id": 1,
+			"schedule_relationship": null,
+			"status": null,
+			"stop_sequence": 600
+		},
+		"id": "prediction-47410608-20:45-BrooklineHillsClosedReservoirRiverside-70200-600",
+		"relationships": {
+			"route": {
+				"data": {
+					"id": "Green-C",
+					"type": "route"
+				}
+			},
+			"stop": {
+				"data": {
+					"id": "70200",
+					"type": "stop"
+				}
+			},
+			"trip": {
+				"data": {
+					"id": "47410608-20:45-BrooklineHillsClosedReservoirRiverside",
+					"type": "trip"
+				}
+			},
+			"vehicle": {
+				"data": {
+					"id": "G-10006",
+					"type": "vehicle"
+				}
+			}
+		},
+		"type": "prediction"
+	}, {
+		"attributes": {
+			"arrival_time": "2021-05-11T17:23:46-04:00",
+			"departure_time": "2021-05-11T17:25:02-04:00",
+			"direction_id": 0,
+			"schedule_relationship": null,
+			"status": null,
+			"stop_sequence": 70
+		},
+		"id": "prediction-47410842-20:45-BrooklineHillsClosedReservoirRiverside-70198-70",
+		"relationships": {
+			"route": {
+				"data": {
+					"id": "Green-D",
+					"type": "route"
+				}
+			},
+			"stop": {
+				"data": {
+					"id": "70198",
+					"type": "stop"
+				}
+			},
+			"trip": {
+				"data": {
+					"id": "47410842-20:45-BrooklineHillsClosedReservoirRiverside",
+					"type": "trip"
+				}
+			},
+			"vehicle": {
+				"data": {
+					"id": "G-10089",
+					"type": "vehicle"
+				}
+			}
+		},
+		"type": "prediction"
+	}, {
+		"attributes": {
+			"arrival_time": null,
+			"departure_time": "2021-05-11T17:25:32-04:00",
+			"direction_id": 0,
+			"schedule_relationship": null,
+			"status": null,
+			"stop_sequence": 50
+		},
+		"id": "prediction-47410329-20:45-BrooklineHillsClosedReservoirRiverside-70196-50",
+		"relationships": {
+			"route": {
+				"data": {
+					"id": "Green-B",
+					"type": "route"
+				}
+			},
+			"stop": {
+				"data": {
+					"id": "70196",
+					"type": "stop"
+				}
+			},
+			"trip": {
+				"data": {
+					"id": "47410329-20:45-BrooklineHillsClosedReservoirRiverside",
+					"type": "trip"
+				}
+			},
+			"vehicle": {
+				"data": {
+					"id": "G-10012",
+					"type": "vehicle"
+				}
+			}
+		},
+		"type": "prediction"
+	}, {
+		"attributes": {
+			"arrival_time": "2021-05-11T17:24:51-04:00",
+			"departure_time": "2021-05-11T17:26:10-04:00",
+			"direction_id": 0,
+			"schedule_relationship": null,
+			"status": null,
+			"stop_sequence": 70
+		},
+		"id": "prediction-47253884-70075-70",
+		"relationships": {
+			"route": {
+				"data": {
+					"id": "Red",
+					"type": "route"
+				}
+			},
+			"stop": {
+				"data": {
+					"id": "70075",
+					"type": "stop"
+				}
+			},
+			"trip": {
+				"data": {
+					"id": "47253884",
+					"type": "trip"
+				}
+			},
+			"vehicle": {
+				"data": {
+					"id": "R-546A69B2",
+					"type": "vehicle"
+				}
+			}
+		},
+		"type": "prediction"
+	}, {
+		"attributes": {
+			"arrival_time": "2021-05-11T17:25:10-04:00",
+			"departure_time": "2021-05-11T17:26:20-04:00",
+			"direction_id": 1,
+			"schedule_relationship": null,
+			"status": null,
+			"stop_sequence": 600
+		},
+		"id": "prediction-47410609-20:45-BrooklineHillsClosedReservoirRiverside-70200-600",
+		"relationships": {
+			"route": {
+				"data": {
+					"id": "Green-C",
+					"type": "route"
+				}
+			},
+			"stop": {
+				"data": {
+					"id": "70200",
+					"type": "stop"
+				}
+			},
+			"trip": {
+				"data": {
+					"id": "47410609-20:45-BrooklineHillsClosedReservoirRiverside",
+					"type": "trip"
+				}
+			},
+			"vehicle": {
+				"data": {
+					"id": "G-10075",
+					"type": "vehicle"
+				}
+			}
+		},
+		"type": "prediction"
+	}, {
+		"attributes": {
+			"arrival_time": "2021-05-11T17:26:17-04:00",
+			"departure_time": "2021-05-11T17:27:36-04:00",
+			"direction_id": 0,
+			"schedule_relationship": null,
+			"status": null,
+			"stop_sequence": 70
+		},
+		"id": "prediction-47254062-70075-70",
+		"relationships": {
+			"route": {
+				"data": {
+					"id": "Red",
+					"type": "route"
+				}
+			},
+			"stop": {
+				"data": {
+					"id": "70075",
+					"type": "stop"
+				}
+			},
+			"trip": {
+				"data": {
+					"id": "47254062",
+					"type": "trip"
+				}
+			},
+			"vehicle": {
+				"data": {
+					"id": "R-546A6BE0",
+					"type": "vehicle"
+				}
+			}
+		},
+		"type": "prediction"
+	}, {
+		"attributes": {
+			"arrival_time": "2021-05-11T17:28:34-04:00",
+			"departure_time": "2021-05-11T17:29:40-04:00",
+			"direction_id": 1,
+			"schedule_relationship": null,
+			"status": null,
+			"stop_sequence": 150
+		},
+		"id": "prediction-47253979-70076-150",
+		"relationships": {
+			"route": {
+				"data": {
+					"id": "Red",
+					"type": "route"
+				}
+			},
+			"stop": {
+				"data": {
+					"id": "70076",
+					"type": "stop"
+				}
+			},
+			"trip": {
+				"data": {
+					"id": "47253979",
+					"type": "trip"
+				}
+			},
+			"vehicle": {
+				"data": {
+					"id": "R-546A6B9B",
+					"type": "vehicle"
+				}
+			}
+		},
+		"type": "prediction"
+	}, {
+		"attributes": {
+			"arrival_time": "2021-05-11T17:28:47-04:00",
+			"departure_time": "2021-05-11T17:29:53-04:00",
+			"direction_id": 1,
+			"schedule_relationship": null,
+			"status": null,
+			"stop_sequence": 150
+		},
+		"id": "prediction-47253843-70076-150",
+		"relationships": {
+			"route": {
+				"data": {
+					"id": "Red",
+					"type": "route"
+				}
+			},
+			"stop": {
+				"data": {
+					"id": "70076",
+					"type": "stop"
+				}
+			},
+			"trip": {
+				"data": {
+					"id": "47253843",
+					"type": "trip"
+				}
+			},
+			"vehicle": {
+				"data": {
+					"id": "R-546A699E",
+					"type": "vehicle"
+				}
+			}
+		},
+		"type": "prediction"
+	}, {
+		"attributes": {
+			"arrival_time": "2021-05-11T17:29:23-04:00",
+			"departure_time": "2021-05-11T17:30:33-04:00",
+			"direction_id": 1,
+			"schedule_relationship": null,
+			"status": null,
+			"stop_sequence": 600
+		},
+		"id": "prediction-47410872-20:45-BrooklineHillsClosedReservoirRiverside-70200-600",
+		"relationships": {
+			"route": {
+				"data": {
+					"id": "Green-D",
+					"type": "route"
+				}
+			},
+			"stop": {
+				"data": {
+					"id": "70200",
+					"type": "stop"
+				}
+			},
+			"trip": {
+				"data": {
+					"id": "47410872-20:45-BrooklineHillsClosedReservoirRiverside",
+					"type": "trip"
+				}
+			},
+			"vehicle": {
+				"data": {
+					"id": "G-10072",
+					"type": "vehicle"
+				}
+			}
+		},
+		"type": "prediction"
+	}, {
+		"attributes": {
+			"arrival_time": null,
+			"departure_time": "2021-05-11T17:30:46-04:00",
+			"direction_id": 0,
+			"schedule_relationship": null,
+			"status": null,
+			"stop_sequence": 50
+		},
+		"id": "prediction-47410328-20:45-BrooklineHillsClosedReservoirRiverside-70196-50",
+		"relationships": {
+			"route": {
+				"data": {
+					"id": "Green-B",
+					"type": "route"
+				}
+			},
+			"stop": {
+				"data": {
+					"id": "70196",
+					"type": "stop"
+				}
+			},
+			"trip": {
+				"data": {
+					"id": "47410328-20:45-BrooklineHillsClosedReservoirRiverside",
+					"type": "trip"
+				}
+			},
+			"vehicle": {
+				"data": {
+					"id": "G-10096",
+					"type": "vehicle"
+				}
+			}
+		},
+		"type": "prediction"
+	}, {
+		"attributes": {
+			"arrival_time": null,
+			"departure_time": "2021-05-11T17:31:23-04:00",
+			"direction_id": 0,
+			"schedule_relationship": "ADDED",
+			"status": null,
+			"stop_sequence": 50
+		},
+		"id": "prediction-ADDED-1580750900-70196-50",
+		"relationships": {
+			"route": {
+				"data": {
+					"id": "Green-D",
+					"type": "route"
+				}
+			},
+			"stop": {
+				"data": {
+					"id": "70196",
+					"type": "stop"
+				}
+			},
+			"trip": {
+				"data": {
+					"id": "ADDED-1580750900",
+					"type": "trip"
+				}
+			},
+			"vehicle": {
+				"data": {
+					"id": "G-10058",
+					"type": "vehicle"
+				}
+			}
+		},
+		"type": "prediction"
+	}, {
+		"attributes": {
+			"arrival_time": "2021-05-11T17:30:41-04:00",
+			"departure_time": "2021-05-11T17:31:51-04:00",
+			"direction_id": 1,
+			"schedule_relationship": "ADDED",
+			"status": null,
+			"stop_sequence": 600
+		},
+		"id": "prediction-ADDED-1580750866-70200-600",
+		"relationships": {
+			"route": {
+				"data": {
+					"id": "Green-E",
+					"type": "route"
+				}
+			},
+			"stop": {
+				"data": {
+					"id": "70200",
+					"type": "stop"
+				}
+			},
+			"trip": {
+				"data": {
+					"id": "ADDED-1580750866",
+					"type": "trip"
+				}
+			},
+			"vehicle": {
+				"data": {
+					"id": "G-10044",
+					"type": "vehicle"
+				}
+			}
+		},
+		"type": "prediction"
+	}, {
+		"attributes": {
+			"arrival_time": "2021-05-11T17:32:01-04:00",
+			"departure_time": "2021-05-11T17:33:15-04:00",
+			"direction_id": 0,
+			"schedule_relationship": null,
+			"status": null,
+			"stop_sequence": 80
+		},
+		"id": "prediction-47411126-20:45-BrooklineHillsClosedReservoirRiverside-70199-80",
+		"relationships": {
+			"route": {
+				"data": {
+					"id": "Green-E",
+					"type": "route"
+				}
+			},
+			"stop": {
+				"data": {
+					"id": "70199",
+					"type": "stop"
+				}
+			},
+			"trip": {
+				"data": {
+					"id": "47411126-20:45-BrooklineHillsClosedReservoirRiverside",
+					"type": "trip"
+				}
+			},
+			"vehicle": {
+				"data": {
+					"id": "G-10034",
+					"type": "vehicle"
+				}
+			}
+		},
+		"type": "prediction"
+	}, {
+		"attributes": {
+			"arrival_time": null,
+			"departure_time": "2021-05-11T17:33:50-04:00",
+			"direction_id": 0,
+			"schedule_relationship": null,
+			"status": null,
+			"stop_sequence": 50
+		},
+		"id": "prediction-47410323-20:45-BrooklineHillsClosedReservoirRiverside-70196-50",
+		"relationships": {
+			"route": {
+				"data": {
+					"id": "Green-B",
+					"type": "route"
+				}
+			},
+			"stop": {
+				"data": {
+					"id": "70196",
+					"type": "stop"
+				}
+			},
+			"trip": {
+				"data": {
+					"id": "47410323-20:45-BrooklineHillsClosedReservoirRiverside",
+					"type": "trip"
+				}
+			},
+			"vehicle": {
+				"data": {
+					"id": "G-10017",
+					"type": "vehicle"
+				}
+			}
+		},
+		"type": "prediction"
+	}, {
+		"attributes": {
+			"arrival_time": "2021-05-11T17:32:44-04:00",
+			"departure_time": "2021-05-11T17:34:03-04:00",
+			"direction_id": 0,
+			"schedule_relationship": null,
+			"status": null,
+			"stop_sequence": 70
+		},
+		"id": "prediction-47253885-70075-70",
+		"relationships": {
+			"route": {
+				"data": {
+					"id": "Red",
+					"type": "route"
+				}
+			},
+			"stop": {
+				"data": {
+					"id": "70075",
+					"type": "stop"
+				}
+			},
+			"trip": {
+				"data": {
+					"id": "47253885",
+					"type": "trip"
+				}
+			},
+			"vehicle": {
+				"data": {
+					"id": "R-546A6BB3",
+					"type": "vehicle"
+				}
+			}
+		},
+		"type": "prediction"
+	}, {
+		"attributes": {
+			"arrival_time": "2021-05-11T17:33:00-04:00",
+			"departure_time": "2021-05-11T17:34:10-04:00",
+			"direction_id": 1,
+			"schedule_relationship": "ADDED",
+			"status": null,
+			"stop_sequence": 600
+		},
+		"id": "prediction-ADDED-1580750889-70200-600",
+		"relationships": {
+			"route": {
+				"data": {
+					"id": "Green-D",
+					"type": "route"
+				}
+			},
+			"stop": {
+				"data": {
+					"id": "70200",
+					"type": "stop"
+				}
+			},
+			"trip": {
+				"data": {
+					"id": "ADDED-1580750889",
+					"type": "trip"
+				}
+			},
+			"vehicle": {
+				"data": {
+					"id": "G-10105",
+					"type": "vehicle"
+				}
+			}
+		},
+		"type": "prediction"
+	}, {
+		"attributes": {
+			"arrival_time": "2021-05-11T17:33:08-04:00",
+			"departure_time": "2021-05-11T17:34:31-04:00",
+			"direction_id": 0,
+			"schedule_relationship": null,
+			"status": null,
+			"stop_sequence": 60
+		},
+		"id": "prediction-47410661-20:45-BrooklineHillsClosedReservoirRiverside-70197-60",
+		"relationships": {
+			"route": {
+				"data": {
+					"id": "Green-C",
+					"type": "route"
+				}
+			},
+			"stop": {
+				"data": {
+					"id": "70197",
+					"type": "stop"
+				}
+			},
+			"trip": {
+				"data": {
+					"id": "47410661-20:45-BrooklineHillsClosedReservoirRiverside",
+					"type": "trip"
+				}
+			},
+			"vehicle": {
+				"data": {
+					"id": "G-10099",
+					"type": "vehicle"
+				}
+			}
+		},
+		"type": "prediction"
+	}, {
+		"attributes": {
+			"arrival_time": "2021-05-11T17:34:05-04:00",
+			"departure_time": "2021-05-11T17:35:15-04:00",
+			"direction_id": 1,
+			"schedule_relationship": "ADDED",
+			"status": null,
+			"stop_sequence": 600
+		},
+		"id": "prediction-ADDED-1580750893-70200-600",
+		"relationships": {
+			"route": {
+				"data": {
+					"id": "Green-C",
+					"type": "route"
+				}
+			},
+			"stop": {
+				"data": {
+					"id": "70200",
+					"type": "stop"
+				}
+			},
+			"trip": {
+				"data": {
+					"id": "ADDED-1580750893",
+					"type": "trip"
+				}
+			},
+			"vehicle": {
+				"data": {
+					"id": "G-10101",
+					"type": "vehicle"
+				}
+			}
+		},
+		"type": "prediction"
+	}, {
+		"attributes": {
+			"arrival_time": "2021-05-11T17:34:38-04:00",
+			"departure_time": "2021-05-11T17:35:48-04:00",
+			"direction_id": 1,
+			"schedule_relationship": null,
+			"status": null,
+			"stop_sequence": 600
+		},
+		"id": "prediction-47410873-20:45-BrooklineHillsClosedReservoirRiverside-70200-600",
+		"relationships": {
+			"route": {
+				"data": {
+					"id": "Green-D",
+					"type": "route"
+				}
+			},
+			"stop": {
+				"data": {
+					"id": "70200",
+					"type": "stop"
+				}
+			},
+			"trip": {
+				"data": {
+					"id": "47410873-20:45-BrooklineHillsClosedReservoirRiverside",
+					"type": "trip"
+				}
+			},
+			"vehicle": {
+				"data": {
+					"id": "G-10054",
+					"type": "vehicle"
+				}
+			}
+		},
+		"type": "prediction"
+	}, {
+		"attributes": {
+			"arrival_time": null,
+			"departure_time": "2021-05-11T17:37:52-04:00",
+			"direction_id": 0,
+			"schedule_relationship": null,
+			"status": null,
+			"stop_sequence": 50
+		},
+		"id": "prediction-47410322-20:45-BrooklineHillsClosedReservoirRiverside-70196-50",
+		"relationships": {
+			"route": {
+				"data": {
+					"id": "Green-B",
+					"type": "route"
+				}
+			},
+			"stop": {
+				"data": {
+					"id": "70196",
+					"type": "stop"
+				}
+			},
+			"trip": {
+				"data": {
+					"id": "47410322-20:45-BrooklineHillsClosedReservoirRiverside",
+					"type": "trip"
+				}
+			},
+			"vehicle": {
+				"data": {
+					"id": "G-10003",
+					"type": "vehicle"
+				}
+			}
+		},
+		"type": "prediction"
+	}, {
+		"attributes": {
+			"arrival_time": "2021-05-11T17:37:44-04:00",
+			"departure_time": "2021-05-11T17:39:00-04:00",
+			"direction_id": 0,
+			"schedule_relationship": "ADDED",
+			"status": null,
+			"stop_sequence": 70
+		},
+		"id": "prediction-ADDED-1580750886-70198-70",
+		"relationships": {
+			"route": {
+				"data": {
+					"id": "Green-D",
+					"type": "route"
+				}
+			},
+			"stop": {
+				"data": {
+					"id": "70198",
+					"type": "stop"
+				}
+			},
+			"trip": {
+				"data": {
+					"id": "ADDED-1580750886",
+					"type": "trip"
+				}
+			},
+			"vehicle": {
+				"data": {
+					"id": "G-10072",
+					"type": "vehicle"
+				}
+			}
+		},
+		"type": "prediction"
+	}, {
+		"attributes": {
+			"arrival_time": "2021-05-11T17:38:36-04:00",
+			"departure_time": "2021-05-11T17:39:55-04:00",
+			"direction_id": 0,
+			"schedule_relationship": null,
+			"status": null,
+			"stop_sequence": 70
+		},
+		"id": "prediction-47254063-70075-70",
+		"relationships": {
+			"route": {
+				"data": {
+					"id": "Red",
+					"type": "route"
+				}
+			},
+			"stop": {
+				"data": {
+					"id": "70075",
+					"type": "stop"
+				}
+			},
+			"trip": {
+				"data": {
+					"id": "47254063",
+					"type": "trip"
+				}
+			},
+			"vehicle": {
+				"data": {
+					"id": "R-546A59F0",
+					"type": "vehicle"
+				}
+			}
+		},
+		"type": "prediction"
+	}, {
+		"attributes": {
+			"arrival_time": "2021-05-11T17:39:52-04:00",
+			"departure_time": "2021-05-11T17:41:06-04:00",
+			"direction_id": 0,
+			"schedule_relationship": null,
+			"status": null,
+			"stop_sequence": 80
+		},
+		"id": "prediction-47411127-20:45-BrooklineHillsClosedReservoirRiverside-70199-80",
+		"relationships": {
+			"route": {
+				"data": {
+					"id": "Green-E",
+					"type": "route"
+				}
+			},
+			"stop": {
+				"data": {
+					"id": "70199",
+					"type": "stop"
+				}
+			},
+			"trip": {
+				"data": {
+					"id": "47411127-20:45-BrooklineHillsClosedReservoirRiverside",
+					"type": "trip"
+				}
+			},
+			"vehicle": {
+				"data": {
+					"id": "G-10062",
+					"type": "vehicle"
+				}
+			}
+		},
+		"type": "prediction"
+	}, {
+		"attributes": {
+			"arrival_time": "2021-05-11T17:40:04-04:00",
+			"departure_time": "2021-05-11T17:41:10-04:00",
+			"direction_id": 1,
+			"schedule_relationship": null,
+			"status": null,
+			"stop_sequence": 150
+		},
+		"id": "prediction-47253844-70076-150",
+		"relationships": {
+			"route": {
+				"data": {
+					"id": "Red",
+					"type": "route"
+				}
+			},
+			"stop": {
+				"data": {
+					"id": "70076",
+					"type": "stop"
+				}
+			},
+			"trip": {
+				"data": {
+					"id": "47253844",
+					"type": "trip"
+				}
+			},
+			"vehicle": {
+				"data": {
+					"id": "R-546A69F7",
+					"type": "vehicle"
+				}
+			}
+		},
+		"type": "prediction"
+	}, {
+		"attributes": {
+			"arrival_time": "2021-05-11T17:40:26-04:00",
+			"departure_time": "2021-05-11T17:41:32-04:00",
+			"direction_id": 1,
+			"schedule_relationship": null,
+			"status": null,
+			"stop_sequence": 150
+		},
+		"id": "prediction-47253980-70076-150",
+		"relationships": {
+			"route": {
+				"data": {
+					"id": "Red",
+					"type": "route"
+				}
+			},
+			"stop": {
+				"data": {
+					"id": "70076",
+					"type": "stop"
+				}
+			},
+			"trip": {
+				"data": {
+					"id": "47253980",
+					"type": "trip"
+				}
+			},
+			"vehicle": {
+				"data": {
+					"id": "R-546A5556",
+					"type": "vehicle"
+				}
+			}
+		},
+		"type": "prediction"
+	}, {
+		"attributes": {
+			"arrival_time": "2021-05-11T17:40:41-04:00",
+			"departure_time": "2021-05-11T17:41:51-04:00",
+			"direction_id": 1,
+			"schedule_relationship": "ADDED",
+			"status": null,
+			"stop_sequence": 600
+		},
+		"id": "prediction-ADDED-1580750885-70200-600",
+		"relationships": {
+			"route": {
+				"data": {
+					"id": "Green-E",
+					"type": "route"
+				}
+			},
+			"stop": {
+				"data": {
+					"id": "70200",
+					"type": "stop"
+				}
+			},
+			"trip": {
+				"data": {
+					"id": "ADDED-1580750885",
+					"type": "trip"
+				}
+			},
+			"vehicle": {
+				"data": {
+					"id": "G-10131",
+					"type": "vehicle"
+				}
+			}
+		},
+		"type": "prediction"
+	}, {
+		"attributes": {
+			"arrival_time": "2021-05-11T17:41:21-04:00",
+			"departure_time": "2021-05-11T17:42:37-04:00",
+			"direction_id": 0,
+			"schedule_relationship": null,
+			"status": null,
+			"stop_sequence": 70
+		},
+		"id": "prediction-47410848-20:45-BrooklineHillsClosedReservoirRiverside-70198-70",
+		"relationships": {
+			"route": {
+				"data": {
+					"id": "Green-D",
+					"type": "route"
+				}
+			},
+			"stop": {
+				"data": {
+					"id": "70198",
+					"type": "stop"
+				}
+			},
+			"trip": {
+				"data": {
+					"id": "47410848-20:45-BrooklineHillsClosedReservoirRiverside",
+					"type": "trip"
+				}
+			},
+			"vehicle": {
+				"data": {
+					"id": "G-10105",
+					"type": "vehicle"
+				}
+			}
+		},
+		"type": "prediction"
+	}, {
+		"attributes": {
+			"arrival_time": "2021-05-11T17:42:15-04:00",
+			"departure_time": "2021-05-11T17:43:38-04:00",
+			"direction_id": 0,
+			"schedule_relationship": null,
+			"status": null,
+			"stop_sequence": 60
+		},
+		"id": "prediction-47410662-20:45-BrooklineHillsClosedReservoirRiverside-70197-60",
+		"relationships": {
+			"route": {
+				"data": {
+					"id": "Green-C",
+					"type": "route"
+				}
+			},
+			"stop": {
+				"data": {
+					"id": "70197",
+					"type": "stop"
+				}
+			},
+			"trip": {
+				"data": {
+					"id": "47410662-20:45-BrooklineHillsClosedReservoirRiverside",
+					"type": "trip"
+				}
+			},
+			"vehicle": {
+				"data": {
+					"id": "G-10006",
+					"type": "vehicle"
+				}
+			}
+		},
+		"type": "prediction"
+	}, {
+		"attributes": {
+			"arrival_time": "2021-05-11T17:42:59-04:00",
+			"departure_time": "2021-05-11T17:44:15-04:00",
+			"direction_id": 0,
+			"schedule_relationship": "ADDED",
+			"status": null,
+			"stop_sequence": 70
+		},
+		"id": "prediction-ADDED-1580750891-70198-70",
+		"relationships": {
+			"route": {
+				"data": {
+					"id": "Green-D",
+					"type": "route"
+				}
+			},
+			"stop": {
+				"data": {
+					"id": "70198",
+					"type": "stop"
+				}
+			},
+			"trip": {
+				"data": {
+					"id": "ADDED-1580750891",
+					"type": "trip"
+				}
+			},
+			"vehicle": {
+				"data": {
+					"id": "G-10054",
+					"type": "vehicle"
+				}
+			}
+		},
+		"type": "prediction"
+	}, {
+		"attributes": {
+			"arrival_time": null,
+			"departure_time": "2021-05-11T17:44:42-04:00",
+			"direction_id": 0,
+			"schedule_relationship": null,
+			"status": null,
+			"stop_sequence": 50
+		},
+		"id": "prediction-47410321-20:45-BrooklineHillsClosedReservoirRiverside-70196-50",
+		"relationships": {
+			"route": {
+				"data": {
+					"id": "Green-B",
+					"type": "route"
+				}
+			},
+			"stop": {
+				"data": {
+					"id": "70196",
+					"type": "stop"
+				}
+			},
+			"trip": {
+				"data": {
+					"id": "47410321-20:45-BrooklineHillsClosedReservoirRiverside",
+					"type": "trip"
+				}
+			},
+			"vehicle": {
+				"data": {
+					"id": "G-10065",
+					"type": "vehicle"
+				}
+			}
+		},
+		"type": "prediction"
+	}, {
+		"attributes": {
+			"arrival_time": "2021-05-11T17:44:50-04:00",
+			"departure_time": "2021-05-11T17:46:00-04:00",
+			"direction_id": 1,
+			"schedule_relationship": null,
+			"status": null,
+			"stop_sequence": 600
+		},
+		"id": "prediction-47410874-20:45-BrooklineHillsClosedReservoirRiverside-70200-600",
+		"relationships": {
+			"route": {
+				"data": {
+					"id": "Green-D",
+					"type": "route"
+				}
+			},
+			"stop": {
+				"data": {
+					"id": "70200",
+					"type": "stop"
+				}
+			},
+			"trip": {
+				"data": {
+					"id": "47410874-20:45-BrooklineHillsClosedReservoirRiverside",
+					"type": "trip"
+				}
+			},
+			"vehicle": {
+				"data": {
+					"id": "G-10055",
+					"type": "vehicle"
+				}
+			}
+		},
+		"type": "prediction"
+	}, {
+		"attributes": {
+			"arrival_time": "2021-05-11T17:44:43-04:00",
+			"departure_time": "2021-05-11T17:46:02-04:00",
+			"direction_id": 0,
+			"schedule_relationship": null,
+			"status": null,
+			"stop_sequence": 70
+		},
+		"id": "prediction-47253886-70075-70",
+		"relationships": {
+			"route": {
+				"data": {
+					"id": "Red",
+					"type": "route"
+				}
+			},
+			"stop": {
+				"data": {
+					"id": "70075",
+					"type": "stop"
+				}
+			},
+			"trip": {
+				"data": {
+					"id": "47253886",
+					"type": "trip"
+				}
+			},
+			"vehicle": {
+				"data": {
+					"id": "R-546A67C7",
+					"type": "vehicle"
+				}
+			}
+		},
+		"type": "prediction"
+	}, {
+		"attributes": {
+			"arrival_time": "2021-05-11T17:44:55-04:00",
+			"departure_time": "2021-05-11T17:46:18-04:00",
+			"direction_id": 0,
+			"schedule_relationship": null,
+			"status": null,
+			"stop_sequence": 60
+		},
+		"id": "prediction-47410663-20:45-BrooklineHillsClosedReservoirRiverside-70197-60",
+		"relationships": {
+			"route": {
+				"data": {
+					"id": "Green-C",
+					"type": "route"
+				}
+			},
+			"stop": {
+				"data": {
+					"id": "70197",
+					"type": "stop"
+				}
+			},
+			"trip": {
+				"data": {
+					"id": "47410663-20:45-BrooklineHillsClosedReservoirRiverside",
+					"type": "trip"
+				}
+			},
+			"vehicle": {
+				"data": {
+					"id": "G-10075",
+					"type": "vehicle"
+				}
+			}
+		},
+		"type": "prediction"
+	}, {
+		"attributes": {
+			"arrival_time": "2021-05-11T17:45:49-04:00",
+			"departure_time": "2021-05-11T17:47:03-04:00",
+			"direction_id": 0,
+			"schedule_relationship": null,
+			"status": null,
+			"stop_sequence": 80
+		},
+		"id": "prediction-47411128-20:45-BrooklineHillsClosedReservoirRiverside-70199-80",
+		"relationships": {
+			"route": {
+				"data": {
+					"id": "Green-E",
+					"type": "route"
+				}
+			},
+			"stop": {
+				"data": {
+					"id": "70199",
+					"type": "stop"
+				}
+			},
+			"trip": {
+				"data": {
+					"id": "47411128-20:45-BrooklineHillsClosedReservoirRiverside",
+					"type": "trip"
+				}
+			},
+			"vehicle": {
+				"data": {
+					"id": "G-10032",
+					"type": "vehicle"
+				}
+			}
+		},
+		"type": "prediction"
+	}, {
+		"attributes": {
+			"arrival_time": "2021-05-11T17:49:18-04:00",
+			"departure_time": "2021-05-11T17:50:28-04:00",
+			"direction_id": 1,
+			"schedule_relationship": null,
+			"status": null,
+			"stop_sequence": 600
+		},
+		"id": "prediction-47410976-20:45-BrooklineHillsClosedReservoirRiverside-70200-600",
+		"relationships": {
+			"route": {
+				"data": {
+					"id": "Green-E",
+					"type": "route"
+				}
+			},
+			"stop": {
+				"data": {
+					"id": "70200",
+					"type": "stop"
+				}
+			},
+			"trip": {
+				"data": {
+					"id": "47410976-20:45-BrooklineHillsClosedReservoirRiverside",
+					"type": "trip"
+				}
+			},
+			"vehicle": {
+				"data": {
+					"id": "G-10118",
+					"type": "vehicle"
+				}
+			}
+		},
+		"type": "prediction"
+	}, {
+		"attributes": {
+			"arrival_time": "2021-05-11T17:49:39-04:00",
+			"departure_time": "2021-05-11T17:50:45-04:00",
+			"direction_id": 1,
+			"schedule_relationship": null,
+			"status": null,
+			"stop_sequence": 150
+		},
+		"id": "prediction-47253981-70076-150",
+		"relationships": {
+			"route": {
+				"data": {
+					"id": "Red",
+					"type": "route"
+				}
+			},
+			"stop": {
+				"data": {
+					"id": "70076",
+					"type": "stop"
+				}
+			},
+			"trip": {
+				"data": {
+					"id": "47253981",
+					"type": "trip"
+				}
+			},
+			"vehicle": {
+				"data": {
+					"id": "R-546A3527",
+					"type": "vehicle"
+				}
+			}
+		},
+		"type": "prediction"
+	}, {
+		"attributes": {
+			"arrival_time": "2021-05-11T17:49:43-04:00",
+			"departure_time": "2021-05-11T17:51:02-04:00",
+			"direction_id": 0,
+			"schedule_relationship": null,
+			"status": null,
+			"stop_sequence": 70
+		},
+		"id": "prediction-47254064-70075-70",
+		"relationships": {
+			"route": {
+				"data": {
+					"id": "Red",
+					"type": "route"
+				}
+			},
+			"stop": {
+				"data": {
+					"id": "70075",
+					"type": "stop"
+				}
+			},
+			"trip": {
+				"data": {
+					"id": "47254064",
+					"type": "trip"
+				}
+			},
+			"vehicle": {
+				"data": {
+					"id": "R-546A5CEA",
+					"type": "vehicle"
+				}
+			}
+		},
+		"type": "prediction"
+	}, {
+		"attributes": {
+			"arrival_time": "2021-05-11T17:50:04-04:00",
+			"departure_time": "2021-05-11T17:51:14-04:00",
+			"direction_id": 1,
+			"schedule_relationship": "ADDED",
+			"status": null,
+			"stop_sequence": 600
+		},
+		"id": "prediction-ADDED-1580750896-70200-600",
+		"relationships": {
+			"route": {
+				"data": {
+					"id": "Green-D",
+					"type": "route"
+				}
+			},
+			"stop": {
+				"data": {
+					"id": "70200",
+					"type": "stop"
+				}
+			},
+			"trip": {
+				"data": {
+					"id": "ADDED-1580750896",
+					"type": "trip"
+				}
+			},
+			"vehicle": {
+				"data": {
+					"id": "G-10140",
+					"type": "vehicle"
+				}
+			}
+		},
+		"type": "prediction"
+	}, {
+		"attributes": {
+			"arrival_time": "2021-05-11T17:53:11-04:00",
+			"departure_time": "2021-05-11T17:54:27-04:00",
+			"direction_id": 0,
+			"schedule_relationship": null,
+			"status": null,
+			"stop_sequence": 70
+		},
+		"id": "prediction-47410847-20:45-BrooklineHillsClosedReservoirRiverside-70198-70",
+		"relationships": {
+			"route": {
+				"data": {
+					"id": "Green-D",
+					"type": "route"
+				}
+			},
+			"stop": {
+				"data": {
+					"id": "70198",
+					"type": "stop"
+				}
+			},
+			"trip": {
+				"data": {
+					"id": "47410847-20:45-BrooklineHillsClosedReservoirRiverside",
+					"type": "trip"
+				}
+			},
+			"vehicle": {
+				"data": {
+					"id": "G-10055",
+					"type": "vehicle"
+				}
+			}
+		},
+		"type": "prediction"
+	}, {
+		"attributes": {
+			"arrival_time": null,
+			"departure_time": "2021-05-11T17:54:42-04:00",
+			"direction_id": 0,
+			"schedule_relationship": null,
+			"status": null,
+			"stop_sequence": 50
+		},
+		"id": "prediction-47410320-20:45-BrooklineHillsClosedReservoirRiverside-70196-50",
+		"relationships": {
+			"route": {
+				"data": {
+					"id": "Green-B",
+					"type": "route"
+				}
+			},
+			"stop": {
+				"data": {
+					"id": "70196",
+					"type": "stop"
+				}
+			},
+			"trip": {
+				"data": {
+					"id": "47410320-20:45-BrooklineHillsClosedReservoirRiverside",
+					"type": "trip"
+				}
+			},
+			"vehicle": {
+				"data": {
+					"id": "G-10025",
+					"type": "vehicle"
+				}
+			}
+		},
+		"type": "prediction"
+	}, {
+		"attributes": {
+			"arrival_time": "2021-05-11T17:54:04-04:00",
+			"departure_time": "2021-05-11T17:55:10-04:00",
+			"direction_id": 1,
+			"schedule_relationship": null,
+			"status": null,
+			"stop_sequence": 150
+		},
+		"id": "prediction-47253846-70076-150",
+		"relationships": {
+			"route": {
+				"data": {
+					"id": "Red",
+					"type": "route"
+				}
+			},
+			"stop": {
+				"data": {
+					"id": "70076",
+					"type": "stop"
+				}
+			},
+			"trip": {
+				"data": {
+					"id": "47253846",
+					"type": "trip"
+				}
+			},
+			"vehicle": {
+				"data": {
+					"id": "R-546A6BE6",
+					"type": "vehicle"
+				}
+			}
+		},
+		"type": "prediction"
+	}, {
+		"attributes": {
+			"arrival_time": "2021-05-11T17:53:50-04:00",
+			"departure_time": "2021-05-11T17:55:13-04:00",
+			"direction_id": 0,
+			"schedule_relationship": null,
+			"status": null,
+			"stop_sequence": 60
+		},
+		"id": "prediction-47410664-20:45-BrooklineHillsClosedReservoirRiverside-70197-60",
+		"relationships": {
+			"route": {
+				"data": {
+					"id": "Green-C",
+					"type": "route"
+				}
+			},
+			"stop": {
+				"data": {
+					"id": "70197",
+					"type": "stop"
+				}
+			},
+			"trip": {
+				"data": {
+					"id": "47410664-20:45-BrooklineHillsClosedReservoirRiverside",
+					"type": "trip"
+				}
+			},
+			"vehicle": {
+				"data": {
+					"id": "G-10101",
+					"type": "vehicle"
+				}
+			}
+		},
+		"type": "prediction"
+	}, {
+		"attributes": {
+			"arrival_time": "2021-05-11T17:54:43-04:00",
+			"departure_time": "2021-05-11T17:56:02-04:00",
+			"direction_id": 0,
+			"schedule_relationship": null,
+			"status": null,
+			"stop_sequence": 70
+		},
+		"id": "prediction-47253887-70075-70",
+		"relationships": {
+			"route": {
+				"data": {
+					"id": "Red",
+					"type": "route"
+				}
+			},
+			"stop": {
+				"data": {
+					"id": "70075",
+					"type": "stop"
+				}
+			},
+			"trip": {
+				"data": {
+					"id": "47253887",
+					"type": "trip"
+				}
+			},
+			"vehicle": {
+				"data": {
+					"id": "R-546A6C2D",
+					"type": "vehicle"
+				}
+			}
+		},
+		"type": "prediction"
+	}, {
+		"attributes": {
+			"arrival_time": null,
+			"departure_time": "2021-05-11T17:57:05-04:00",
+			"direction_id": 0,
+			"schedule_relationship": null,
+			"status": null,
+			"stop_sequence": 50
+		},
+		"id": "prediction-47410319-20:45-BrooklineHillsClosedReservoirRiverside-70196-50",
+		"relationships": {
+			"route": {
+				"data": {
+					"id": "Green-B",
+					"type": "route"
+				}
+			},
+			"stop": {
+				"data": {
+					"id": "70196",
+					"type": "stop"
+				}
+			},
+			"trip": {
+				"data": {
+					"id": "47410319-20:45-BrooklineHillsClosedReservoirRiverside",
+					"type": "trip"
+				}
+			},
+			"vehicle": {
+				"data": {
+					"id": "G-10057",
+					"type": "vehicle"
+				}
+			}
+		},
+		"type": "prediction"
+	}, {
+		"attributes": {
+			"arrival_time": "2021-05-11T17:56:26-04:00",
+			"departure_time": "2021-05-11T17:57:40-04:00",
+			"direction_id": 0,
+			"schedule_relationship": null,
+			"status": null,
+			"stop_sequence": 80
+		},
+		"id": "prediction-47411129-20:45-BrooklineHillsClosedReservoirRiverside-70199-80",
+		"relationships": {
+			"route": {
+				"data": {
+					"id": "Green-E",
+					"type": "route"
+				}
+			},
+			"stop": {
+				"data": {
+					"id": "70199",
+					"type": "stop"
+				}
+			},
+			"trip": {
+				"data": {
+					"id": "47411129-20:45-BrooklineHillsClosedReservoirRiverside",
+					"type": "trip"
+				}
+			},
+			"vehicle": {
+				"data": {
+					"id": "G-10044",
+					"type": "vehicle"
+				}
+			}
+		},
+		"type": "prediction"
+	}, {
+		"attributes": {
+			"arrival_time": "2021-05-11T17:56:55-04:00",
+			"departure_time": "2021-05-11T17:58:05-04:00",
+			"direction_id": 1,
+			"schedule_relationship": "ADDED",
+			"status": null,
+			"stop_sequence": 600
+		},
+		"id": "prediction-ADDED-1580750888-70200-600",
+		"relationships": {
+			"route": {
+				"data": {
+					"id": "Green-E",
+					"type": "route"
+				}
+			},
+			"stop": {
+				"data": {
+					"id": "70200",
+					"type": "stop"
+				}
+			},
+			"trip": {
+				"data": {
+					"id": "ADDED-1580750888",
+					"type": "trip"
+				}
+			},
+			"vehicle": {
+				"data": {
+					"id": "G-10066",
+					"type": "vehicle"
+				}
+			}
+		},
+		"type": "prediction"
+	}, {
+		"attributes": {
+			"arrival_time": "2021-05-11T17:58:25-04:00",
+			"departure_time": "2021-05-11T17:59:41-04:00",
+			"direction_id": 0,
+			"schedule_relationship": null,
+			"status": null,
+			"stop_sequence": 70
+		},
+		"id": "prediction-47410858-20:45-BrooklineHillsClosedReservoirRiverside-70198-70",
+		"relationships": {
+			"route": {
+				"data": {
+					"id": "Green-D",
+					"type": "route"
+				}
+			},
+			"stop": {
+				"data": {
+					"id": "70198",
+					"type": "stop"
+				}
+			},
+			"trip": {
+				"data": {
+					"id": "47410858-20:45-BrooklineHillsClosedReservoirRiverside",
+					"type": "trip"
+				}
+			},
+			"vehicle": {
+				"data": {
+					"id": "G-10140",
+					"type": "vehicle"
+				}
+			}
+		},
+		"type": "prediction"
+	}, {
+		"attributes": {
+			"arrival_time": "2021-05-11T18:00:43-04:00",
+			"departure_time": "2021-05-11T18:02:02-04:00",
+			"direction_id": 0,
+			"schedule_relationship": null,
+			"status": null,
+			"stop_sequence": 70
+		},
+		"id": "prediction-47254065-70075-70",
+		"relationships": {
+			"route": {
+				"data": {
+					"id": "Red",
+					"type": "route"
+				}
+			},
+			"stop": {
+				"data": {
+					"id": "70075",
+					"type": "stop"
+				}
+			},
+			"trip": {
+				"data": {
+					"id": "47254065",
+					"type": "trip"
+				}
+			},
+			"vehicle": {
+				"data": {
+					"id": "R-546A6066",
+					"type": "vehicle"
+				}
+			}
+		},
+		"type": "prediction"
+	}, {
+		"attributes": {
+			"arrival_time": "2021-05-11T18:01:39-04:00",
+			"departure_time": "2021-05-11T18:02:45-04:00",
+			"direction_id": 1,
+			"schedule_relationship": null,
+			"status": null,
+			"stop_sequence": 150
+		},
+		"id": "prediction-47253982-70076-150",
+		"relationships": {
+			"route": {
+				"data": {
+					"id": "Red",
+					"type": "route"
+				}
+			},
+			"stop": {
+				"data": {
+					"id": "70076",
+					"type": "stop"
+				}
+			},
+			"trip": {
+				"data": {
+					"id": "47253982",
+					"type": "trip"
+				}
+			},
+			"vehicle": {
+				"data": {
+					"id": "R-546A6BDC",
+					"type": "vehicle"
+				}
+			}
+		},
+		"type": "prediction"
+	}, {
+		"attributes": {
+			"arrival_time": "2021-05-11T18:06:43-04:00",
+			"departure_time": "2021-05-11T18:08:02-04:00",
+			"direction_id": 0,
+			"schedule_relationship": null,
+			"status": null,
+			"stop_sequence": 70
+		},
+		"id": "prediction-47253888-70075-70",
+		"relationships": {
+			"route": {
+				"data": {
+					"id": "Red",
+					"type": "route"
+				}
+			},
+			"stop": {
+				"data": {
+					"id": "70075",
+					"type": "stop"
+				}
+			},
+			"trip": {
+				"data": {
+					"id": "47253888",
+					"type": "trip"
+				}
+			},
+			"vehicle": {
+				"data": {
+					"id": "R-546A699E",
+					"type": "vehicle"
+				}
+			}
+		},
+		"type": "prediction"
+	}, {
+		"attributes": {
+			"arrival_time": "2021-05-11T18:07:43-04:00",
+			"departure_time": "2021-05-11T18:08:53-04:00",
+			"direction_id": 1,
+			"schedule_relationship": null,
+			"status": null,
+			"stop_sequence": 600
+		},
+		"id": "prediction-47410979-20:45-BrooklineHillsClosedReservoirRiverside-70200-600",
+		"relationships": {
+			"route": {
+				"data": {
+					"id": "Green-E",
+					"type": "route"
+				}
+			},
+			"stop": {
+				"data": {
+					"id": "70200",
+					"type": "stop"
+				}
+			},
+			"trip": {
+				"data": {
+					"id": "47410979-20:45-BrooklineHillsClosedReservoirRiverside",
+					"type": "trip"
+				}
+			},
+			"vehicle": {
+				"data": {
+					"id": "G-10084",
+					"type": "vehicle"
+				}
+			}
+		},
+		"type": "prediction"
+	}, {
+		"attributes": {
+			"arrival_time": "2021-05-11T18:08:04-04:00",
+			"departure_time": "2021-05-11T18:09:10-04:00",
+			"direction_id": 1,
+			"schedule_relationship": null,
+			"status": null,
+			"stop_sequence": 150
+		},
+		"id": "prediction-47253847-70076-150",
+		"relationships": {
+			"route": {
+				"data": {
+					"id": "Red",
+					"type": "route"
+				}
+			},
+			"stop": {
+				"data": {
+					"id": "70076",
+					"type": "stop"
+				}
+			},
+			"trip": {
+				"data": {
+					"id": "47253847",
+					"type": "trip"
+				}
+			},
+			"vehicle": {
+				"data": {
+					"id": "R-546A699F",
+					"type": "vehicle"
+				}
+			}
+		},
+		"type": "prediction"
+	}, {
+		"attributes": {
+			"arrival_time": "2021-05-11T18:10:51-04:00",
+			"departure_time": "2021-05-11T18:12:01-04:00",
+			"direction_id": 1,
+			"schedule_relationship": null,
+			"status": null,
+			"stop_sequence": 600
+		},
+		"id": "prediction-47410980-20:45-BrooklineHillsClosedReservoirRiverside-70200-600",
+		"relationships": {
+			"route": {
+				"data": {
+					"id": "Green-E",
+					"type": "route"
+				}
+			},
+			"stop": {
+				"data": {
+					"id": "70200",
+					"type": "stop"
+				}
+			},
+			"trip": {
+				"data": {
+					"id": "47410980-20:45-BrooklineHillsClosedReservoirRiverside",
+					"type": "trip"
+				}
+			},
+			"vehicle": {
+				"data": {
+					"id": "G-10040",
+					"type": "vehicle"
+				}
+			}
+		},
+		"type": "prediction"
+	}, {
+		"attributes": {
+			"arrival_time": "2021-05-11T18:11:43-04:00",
+			"departure_time": "2021-05-11T18:13:02-04:00",
+			"direction_id": 0,
+			"schedule_relationship": null,
+			"status": null,
+			"stop_sequence": 70
+		},
+		"id": "prediction-47254066-70075-70",
+		"relationships": {
+			"route": {
+				"data": {
+					"id": "Red",
+					"type": "route"
+				}
+			},
+			"stop": {
+				"data": {
+					"id": "70075",
+					"type": "stop"
+				}
+			},
+			"trip": {
+				"data": {
+					"id": "47254066",
+					"type": "trip"
+				}
+			},
+			"vehicle": {
+				"data": {
+					"id": "R-546A6B9B",
+					"type": "vehicle"
+				}
+			}
+		},
+		"type": "prediction"
+	}, {
+		"attributes": {
+			"arrival_time": "2021-05-11T18:12:39-04:00",
+			"departure_time": "2021-05-11T18:13:45-04:00",
+			"direction_id": 1,
+			"schedule_relationship": null,
+			"status": null,
+			"stop_sequence": 150
+		},
+		"id": "prediction-47253983-70076-150",
+		"relationships": {
+			"route": {
+				"data": {
+					"id": "Red",
+					"type": "route"
+				}
+			},
+			"stop": {
+				"data": {
+					"id": "70076",
+					"type": "stop"
+				}
+			},
+			"trip": {
+				"data": {
+					"id": "47253983",
+					"type": "trip"
+				}
+			},
+			"vehicle": {
+				"data": {
+					"id": "R-546A6466",
+					"type": "vehicle"
+				}
+			}
+		},
+		"type": "prediction"
+	}, {
+		"attributes": {
+			"arrival_time": "2021-05-11T18:17:43-04:00",
+			"departure_time": "2021-05-11T18:19:02-04:00",
+			"direction_id": 0,
+			"schedule_relationship": null,
+			"status": null,
+			"stop_sequence": 70
+		},
+		"id": "prediction-47253889-70075-70",
+		"relationships": {
+			"route": {
+				"data": {
+					"id": "Red",
+					"type": "route"
+				}
+			},
+			"stop": {
+				"data": {
+					"id": "70075",
+					"type": "stop"
+				}
+			},
+			"trip": {
+				"data": {
+					"id": "47253889",
+					"type": "trip"
+				}
+			},
+			"vehicle": {
+				"data": {
+					"id": "R-546A69F7",
+					"type": "vehicle"
+				}
+			}
+		},
+		"type": "prediction"
+	}, {
+		"attributes": {
+			"arrival_time": "2021-05-11T18:20:04-04:00",
+			"departure_time": "2021-05-11T18:21:10-04:00",
+			"direction_id": 1,
+			"schedule_relationship": null,
+			"status": null,
+			"stop_sequence": 150
+		},
+		"id": "prediction-47253848-70076-150",
+		"relationships": {
+			"route": {
+				"data": {
+					"id": "Red",
+					"type": "route"
+				}
+			},
+			"stop": {
+				"data": {
+					"id": "70076",
+					"type": "stop"
+				}
+			},
+			"trip": {
+				"data": {
+					"id": "47253848",
+					"type": "trip"
+				}
+			},
+			"vehicle": {
+				"data": {
+					"id": "R-546A69B2",
+					"type": "vehicle"
+				}
+			}
+		},
+		"type": "prediction"
+	}, {
+		"attributes": {
+			"arrival_time": "2021-05-11T18:20:39-04:00",
+			"departure_time": "2021-05-11T18:21:49-04:00",
+			"direction_id": 1,
+			"schedule_relationship": null,
+			"status": null,
+			"stop_sequence": 600
+		},
+		"id": "prediction-47411020-20:45-BrooklineHillsClosedReservoirRiverside-70200-600",
+		"relationships": {
+			"route": {
+				"data": {
+					"id": "Green-E",
+					"type": "route"
+				}
+			},
+			"stop": {
+				"data": {
+					"id": "70200",
+					"type": "stop"
+				}
+			},
+			"trip": {
+				"data": {
+					"id": "47411020-20:45-BrooklineHillsClosedReservoirRiverside",
+					"type": "trip"
+				}
+			},
+			"vehicle": {
+				"data": {
+					"id": "G-10034",
+					"type": "vehicle"
+				}
+			}
+		},
+		"type": "prediction"
+	}, {
+		"attributes": {
+			"arrival_time": "2021-05-11T18:23:43-04:00",
+			"departure_time": "2021-05-11T18:25:02-04:00",
+			"direction_id": 0,
+			"schedule_relationship": null,
+			"status": null,
+			"stop_sequence": 70
+		},
+		"id": "prediction-47254067-70075-70",
+		"relationships": {
+			"route": {
+				"data": {
+					"id": "Red",
+					"type": "route"
+				}
+			},
+			"stop": {
+				"data": {
+					"id": "70075",
+					"type": "stop"
+				}
+			},
+			"trip": {
+				"data": {
+					"id": "47254067",
+					"type": "trip"
+				}
+			},
+			"vehicle": {
+				"data": {
+					"id": "R-546A5556",
+					"type": "vehicle"
+				}
+			}
+		},
+		"type": "prediction"
+	}, {
+		"attributes": {
+			"arrival_time": "2021-05-11T18:24:39-04:00",
+			"departure_time": "2021-05-11T18:25:45-04:00",
+			"direction_id": 1,
+			"schedule_relationship": null,
+			"status": null,
+			"stop_sequence": 150
+		},
+		"id": "prediction-47253984-70076-150",
+		"relationships": {
+			"route": {
+				"data": {
+					"id": "Red",
+					"type": "route"
+				}
+			},
+			"stop": {
+				"data": {
+					"id": "70076",
+					"type": "stop"
+				}
+			},
+			"trip": {
+				"data": {
+					"id": "47253984",
+					"type": "trip"
+				}
+			},
+			"vehicle": {
+				"data": {
+					"id": "R-546A5DA3",
+					"type": "vehicle"
+				}
+			}
+		},
+		"type": "prediction"
+	}, {
+		"attributes": {
+			"arrival_time": "2021-05-11T18:32:04-04:00",
+			"departure_time": "2021-05-11T18:33:10-04:00",
+			"direction_id": 1,
+			"schedule_relationship": null,
+			"status": null,
+			"stop_sequence": 150
+		},
+		"id": "prediction-47253849-70076-150",
+		"relationships": {
+			"route": {
+				"data": {
+					"id": "Red",
+					"type": "route"
+				}
+			},
+			"stop": {
+				"data": {
+					"id": "70076",
+					"type": "stop"
+				}
+			},
+			"trip": {
+				"data": {
+					"id": "47253849",
+					"type": "trip"
+				}
+			},
+			"vehicle": {
+				"data": {
+					"id": "R-546A6BB3",
+					"type": "vehicle"
+				}
+			}
+		},
+		"type": "prediction"
+	}, {
+		"attributes": {
+			"arrival_time": "2021-05-11T18:35:39-04:00",
+			"departure_time": "2021-05-11T18:36:45-04:00",
+			"direction_id": 1,
+			"schedule_relationship": null,
+			"status": null,
+			"stop_sequence": 150
+		},
+		"id": "prediction-47253985-70076-150",
+		"relationships": {
+			"route": {
+				"data": {
+					"id": "Red",
+					"type": "route"
+				}
+			},
+			"stop": {
+				"data": {
+					"id": "70076",
+					"type": "stop"
+				}
+			},
+			"trip": {
+				"data": {
+					"id": "47253985",
+					"type": "trip"
+				}
+			},
+			"vehicle": {
+				"data": {
+					"id": "R-546A6AE6",
+					"type": "vehicle"
+				}
+			}
+		},
+		"type": "prediction"
+	}],
+	"included": [{
+		"attributes": {
+			"color": "00843D",
+			"description": "Rapid Transit",
+			"direction_destinations": ["Boston College", "Park Street"],
+			"direction_names": ["West", "East"],
+			"fare_class": "Rapid Transit",
+			"long_name": "Green Line B",
+			"short_name": "B",
+			"sort_order": 10032,
+			"text_color": "FFFFFF",
+			"type": 0
+		},
+		"id": "Green-B",
+		"links": {
+			"self": "/routes/Green-B"
+		},
+		"relationships": {
+			"line": {
+				"data": {
+					"id": "line-Green",
+					"type": "line"
+				}
+			},
+			"route_patterns": {}
+		},
+		"type": "route"
+	}, {
+		"attributes": {
+			"color": "00843D",
+			"description": "Rapid Transit",
+			"direction_destinations": ["Cleveland Circle", "North Station"],
+			"direction_names": ["West", "East"],
+			"fare_class": "Rapid Transit",
+			"long_name": "Green Line C",
+			"short_name": "C",
+			"sort_order": 10033,
+			"text_color": "FFFFFF",
+			"type": 0
+		},
+		"id": "Green-C",
+		"links": {
+			"self": "/routes/Green-C"
+		},
+		"relationships": {
+			"line": {
+				"data": {
+					"id": "line-Green",
+					"type": "line"
+				}
+			},
+			"route_patterns": {}
+		},
+		"type": "route"
+	}, {
+		"attributes": {
+			"color": "00843D",
+			"description": "Rapid Transit",
+			"direction_destinations": ["Riverside", "Government Center"],
+			"direction_names": ["West", "East"],
+			"fare_class": "Rapid Transit",
+			"long_name": "Green Line D",
+			"short_name": "D",
+			"sort_order": 10034,
+			"text_color": "FFFFFF",
+			"type": 0
+		},
+		"id": "Green-D",
+		"links": {
+			"self": "/routes/Green-D"
+		},
+		"relationships": {
+			"line": {
+				"data": {
+					"id": "line-Green",
+					"type": "line"
+				}
+			},
+			"route_patterns": {}
+		},
+		"type": "route"
+	}, {
+		"attributes": {
+			"color": "00843D",
+			"description": "Rapid Transit",
+			"direction_destinations": ["Heath Street", "North Station"],
+			"direction_names": ["West", "East"],
+			"fare_class": "Rapid Transit",
+			"long_name": "Green Line E",
+			"short_name": "E",
+			"sort_order": 10035,
+			"text_color": "FFFFFF",
+			"type": 0
+		},
+		"id": "Green-E",
+		"links": {
+			"self": "/routes/Green-E"
+		},
+		"relationships": {
+			"line": {
+				"data": {
+					"id": "line-Green",
+					"type": "line"
+				}
+			},
+			"route_patterns": {}
+		},
+		"type": "route"
+	}, {
+		"attributes": {
+			"color": "DA291C",
+			"description": "Rapid Transit",
+			"direction_destinations": ["Ashmont/Braintree", "Alewife"],
+			"direction_names": ["South", "North"],
+			"fare_class": "Rapid Transit",
+			"long_name": "Red Line",
+			"short_name": "",
+			"sort_order": 10010,
+			"text_color": "FFFFFF",
+			"type": 1
+		},
+		"id": "Red",
+		"links": {
+			"self": "/routes/Red"
+		},
+		"relationships": {
+			"line": {
+				"data": {
+					"id": "line-Red",
+					"type": "line"
+				}
+			},
+			"route_patterns": {}
+		},
+		"type": "route"
+	}],
+	"jsonapi": {
+		"version": "1.0"
+	}
+}
